@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ASUS\source\repos\Search\Source.cpp(47,36): warning C4244: =: преобразование "__int64" в "long", возможна потеря данных
+C:\Users\ASUS\source\repos\Search\Source.cpp(48,42): warning C4244: =: преобразование "__int64" в "long", возможна потеря данных
+C:\Users\ASUS\source\repos\Search\Source.cpp(49,15): warning C4244: return: преобразование "__int64" в "long", возможна потеря данных
+  Search.vcxproj -> C:\Users\ASUS\source\repos\Search\Debug\Search.exe
