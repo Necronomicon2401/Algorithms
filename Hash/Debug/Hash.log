@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\ASUS\source\repos\Hash\Source.cpp(173,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\Hash\Source.cpp(189,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\Hash\Source.cpp(125,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\Hash\Source.cpp(186): message : выполняется компиляция ссылки на экземпляр шаблон функции "int CountNumberOfElements<double,int>(std::vector<LinkedHash<double,int>,std::allocator<LinkedHash<double,int>>>)"
+C:\Users\ASUS\source\repos\Hash\Source.cpp(137,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\Hash\Source.cpp(188): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<LinkedHash<double,int>,std::allocator<LinkedHash<double,int>>> Rehashing<double,int>(std::vector<LinkedHash<double,int>,std::allocator<LinkedHash<double,int>>>)"
+  Hash.vcxproj -> C:\Users\ASUS\source\repos\Hash\Debug\Hash.exe
