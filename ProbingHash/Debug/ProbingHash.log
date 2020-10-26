@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\ASUS\source\repos\ProbingHash\Source.cpp(105,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\ProbingHash\Source.cpp(142): message : выполняется компиляция ссылки на экземпляр шаблон функции "void PrintHashTable<double,int>(std::vector<Hash<double,int>,std::allocator<Hash<double,int>>>)"
+C:\Users\ASUS\source\repos\ProbingHash\Source.cpp(94,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\ProbingHash\Source.cpp(144): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DeleteForNumbers<double,int>(std::vector<Hash<double,int>,std::allocator<Hash<double,int>>> &,T,V)"
+          with
+          [
+              T=double,
+              V=int
+          ]
+C:\Users\ASUS\source\repos\ProbingHash\Source.cpp(46,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\ProbingHash\Source.cpp(64): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<Hash<double,int>,std::allocator<Hash<double,int>>> Rehashing<double,int>(std::vector<Hash<double,int>,std::allocator<Hash<double,int>>>)"
+C:\Users\ASUS\source\repos\ProbingHash\Source.cpp(134): message : выполняется компиляция ссылки на экземпляр шаблон функции "void AddForNumbers<double,int>(std::vector<Hash<double,int>,std::allocator<Hash<double,int>>> &,T,V)"
+          with
+          [
+              T=double,
+              V=int
+          ]
+C:\Users\ASUS\source\repos\ProbingHash\Source.cpp(114,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\ProbingHash\Source.cpp(42): message : выполняется компиляция ссылки на экземпляр шаблон функции "int CountNumberOfElements<double,int>(std::vector<Hash<double,int>,std::allocator<Hash<double,int>>>)"
+C:\Users\ASUS\source\repos\ProbingHash\Source.cpp(64): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<Hash<double,int>,std::allocator<Hash<double,int>>> Rehashing<double,int>(std::vector<Hash<double,int>,std::allocator<Hash<double,int>>>)"
+  ProbingHash.vcxproj -> C:\Users\ASUS\source\repos\ProbingHash\Debug\ProbingHash.exe
