@@ -1,0 +1,2 @@
+C:\Algorithms\Algorithms\BipartiteGraph\Debug\BipartiteGraph.exe
+C:\Algorithms\Algorithms\BipartiteGraph\Debug\BipartiteGraph.pdb

@@ -1,0 +1,2 @@
+C:\Algorithms\Algorithms\Olymp\Debug\Olymp.exe
+C:\Algorithms\Algorithms\Olymp\Debug\Olymp.pdb
