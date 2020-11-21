@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Algorithms\Algorithms\Euler\Source.cpp(27,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Algorithms\Algorithms\Euler\Source.cpp(31,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Euler.vcxproj -> C:\Algorithms\Algorithms\Euler\Debug\Euler.exe

@@ -1,0 +1,2 @@
+C:\Algorithms\Algorithms\Euler\Debug\Euler.exe
+C:\Algorithms\Algorithms\Euler\Debug\Euler.pdb
