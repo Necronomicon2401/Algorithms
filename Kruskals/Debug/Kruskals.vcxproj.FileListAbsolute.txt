@@ -1,0 +1,2 @@
+C:\Algorithms\Algorithms\Kruskals\Debug\Kruskals.exe
+C:\Algorithms\Algorithms\Kruskals\Debug\Kruskals.pdb

@@ -1,0 +1,2 @@
+C:\Algorithms\Algorithms\Prims\Debug\Prims.exe
+C:\Algorithms\Algorithms\Prims\Debug\Prims.pdb

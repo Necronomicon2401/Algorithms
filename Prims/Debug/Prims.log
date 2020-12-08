@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Algorithms\Algorithms\Prims\Source.cpp(7,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Prims.vcxproj -> C:\Algorithms\Algorithms\Prims\Debug\Prims.exe

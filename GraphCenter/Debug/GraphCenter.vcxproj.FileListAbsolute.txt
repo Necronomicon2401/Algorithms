@@ -1,0 +1,2 @@
+C:\Algorithms\Algorithms\GraphCenter\Debug\GraphCenter.exe
+C:\Algorithms\Algorithms\GraphCenter\Debug\GraphCenter.pdb
